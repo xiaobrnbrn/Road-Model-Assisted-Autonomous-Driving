@@ -1,7 +1,7 @@
 ## Introduction
-This repo focus on the road model aided autonomous driving technologies (papers and codes), mainly includes but not limited to **road net extraction**, **road topology reasoning**, **road model aided navigation and localization**, etc. 
+This repo focuses on the road model-aided autonomous driving technologies (papers and codes), mainly including but not limited to **road net extraction**, **road topology reasoning**, **road model aided navigation and localization**, etc. 
 
-## Categories (ongoing updates...) 
+## Categories (<span style="color:red;">ongoing updates...</span>) 
 
 ### Road Net Extraction
 * 
